@@ -9,18 +9,8 @@ categories: fork Java Project App
 
 # Fork
 ------------
-### [Picasso](https://github.com/jymh22/picasso, "Picasso link")
+### [Picasso](https://github.com/jymh22/picasso "Picasso link")
 * 이미지 로딩, 메모리와 디스크 캐싱, 변형을 코드 몇줄로 가능케 하는 오픈소스이다. 최소한의 메모리 사용으로 복잡한 이미지 변환이 가능하다. 이미지를 보여주는 과정의 부가적인 작업들을 쉽게 수행할 수 있다.
 
-### [go-ethereum](https://github.com/jymh22/go-ethereum, "go-ethereum link")
+### [go-ethereum](https://github.com/jymh22/go-ethereum "go-ethereum link")
 * 대표적인 블록체인 플랫폼인 이더리움을 Go언어로 작성한 오픈소스이다. 블록체인 기술을 기반으로 거래나 결제뿐만아니라 전자 계약서, 이메일 등 여러 기능들을 제공한다.
-
-
-### [escape]
-
-> 탈출을 위해 위로 올라가는 게임입니다.   
-> 점프, 앉기, 좌우 이동으로 장애물들을 피하면서 목적지까지 올라가면 됩니다.   
-> 장애물에 맞아도 죽지 않고 넉백되며, 아래로 떨어집니다.
-
-[catdog]:   https://github.com/jymh22/Jejunuprojectcatdog
-[escape]: https://github.com/jymh22/escape
