@@ -1,78 +1,22 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Project
+subtitle: 현재까지 진행한 프로젝트 목록
+tags: [project, c#, java]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+### [catdog]
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+> 첫 번째로 진행했던 프로젝트로 강아지 군단과 고양이 군단이 서로 싸우는 게임입니다.  
+> 두 컴퓨터로 친구와 1:1을 하여 승부를 가리는 멀티플레이어 게임 입니다.
 
 
-How about a yummy crepe?
+### [escape]
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+> 탈출을 위해 위로 올라가는 게임입니다.   
+> 점프, 앉기, 좌우 이동으로 장애물들을 피하면서 목적지까지 올라가면 됩니다.   
+> 장애물에 맞아도 죽지 않고 넉백되며, 아래로 떨어집니다.
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+[catdog]:   https://github.com/jymh22/Jejunuprojectcatdog
+[escape]: https://github.com/jymh22/escape

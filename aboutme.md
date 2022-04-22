@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: my profile
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Personal Information
+> 이름 : 이홍규   
+> 학과 : 컴퓨터공학과   
+> 학번 : 2018108274   
+> 메일 : jymh22@naver.com   
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Education
+> 제주 백록초등학교 졸업   
+> 제주 중앙중학교 졸업   
+> 제주 제일고등학교 졸업   
+> 제주대학교 컴퓨터공학과 재학   
 
-What else do you need?
+------------
 
-### My story
+안녕하십니까 제주대학교에 재학중인 18학번 이홍규 입니다.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+현재 블록체인, 딥러닝, 영상처리에 관심이 많습니다.
+아직 햇병아리 개발자이지만 열심히 노력하여 개발자로 성공하고 싶습니다.
